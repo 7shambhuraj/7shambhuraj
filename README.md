@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shambhuraj Jangam 👋</h1>
+<h1 align="center">Hi, I'm Shambhuraj Jangam 🪷</h1>
 
 <p align="center">
   <b>Aspiring Full-Stack Developer | MCA Student | Gamer </b><br>
@@ -82,7 +82,7 @@ I love gaming. It's how I relax, and it inspires my interest in building smooth,
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shambhurajjangam/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:7shambhuraj@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](7shambhuraj@gmail.com)
 
 ---
 
