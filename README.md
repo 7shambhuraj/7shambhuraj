@@ -84,9 +84,9 @@ I love gaming. It's how I relax, and it inspires my interest in building smooth,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shambhurajjangam/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:7shambhuraj@gmail.com)
 [![Instagram](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://instagram.com/7shambhuraj)
-[![Facebook](https://shields.io)](https://facebook.com/sjambhurajjangam)
-[![Twitter/X](https://shields.io)](https://x.com/7shambhuraj)
-[![YouTube](https://shields.io)](https://youtube.com/shambhuraj18)
+[![Facebook](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://facebook.com/shambhurajjangam)
+[![Twitter/X](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://x.com/7shambhuraj)
+[![YouTube](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://youtube.com/shambhuraj18)
 
 
 
