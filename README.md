@@ -88,6 +88,13 @@ I love gaming. It's how I relax, and it inspires my interest in building smooth,
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/7shambhuraj)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@shambhuraj18)
 
+## 🎮 Connect With Me on Twitch
+
+I am passionate about gaming and building interactive user experiences. You can catch me live-streaming or check out my channel below!
+
+[![Twitch Status](https://shields.io)](https://twitch.tv)
+
+👉 Click the badge above or visit my channel directly at [twitch.tv/7shambhuraj](https://twitch.tv "7shambhuraj twitch") to follow my streams.
 
 
 
